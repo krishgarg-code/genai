@@ -72,6 +72,13 @@ The app has three pages:
 - **Model Performance** — see accuracy, recall, confusion matrix, ROC curve (with live threshold slider)
 - **Predict Single Customer** — enter customer details and get a risk prediction
 
+### App Dashboard
+
+![Streamlit App Start Screen](app_start.png)
+![Streamlit App Main Dashboard](streamlit_app_screenshot.png)
+![App Charts 1](app_charts_1.png)
+![App Charts 2](app_charts_2.png)
+
 ---
 
 ## How to Load the Model in Python
